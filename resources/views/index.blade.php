@@ -61,6 +61,7 @@
     ->havingRaw('COUNT(Mobile) > 1')
     ->get();
 
+    chatgpt: https://chatgpt.com/share/bcd8341b-d5d2-42ad-b2f2-459d5c926a34
     <script>
         function getStringLengths(array) {
             return array.map(function(str) {
